@@ -66,8 +66,13 @@ section section {
   color: #ffffff;
   font-weight: normal;
   text-decoration: underline;
- 
 }
+
+.principal ul li a:hover {
+  color:#8a71c9;
+  font-weight: bold;
+}
+
 .principal ul{
   padding: 0;
 }
